@@ -8,7 +8,7 @@
 5. XML  
 I si ***tenim temps,*** veurem també el funcionament de _NODE.JS_  
 ## GIT  
-![foto](/exercicis_llmm-main/icono.png)
+![foto](/01_Markdown/icono.png)
 
 Herramienta de gestión de repositorios. Per crear un repositori, escriurem en un terminal:    
 
