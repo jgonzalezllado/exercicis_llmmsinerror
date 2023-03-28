@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE productes SYSTEM "productos.dtd">
+<productes>
+  <producte>
+    <ratoli>
+      <codi></codi>
+      <nom></nom>
+      <descripcio></descripcio>
+    </ratoli>
+  </producte>
+  <producte>
+    <teclat>
+      <codi></codi>
+      <nom></nom>
+      <descripcio></descripcio>
+    </teclat>
+  </producte>
+  <producte>
+    <monitor>
+      <codi></codi>
+      <nom></nom>
+      <descripcio></descripcio>
+    </monitor>
+  </producte>
+</productes>

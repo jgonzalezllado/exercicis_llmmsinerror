@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ingredientes>
+    <massaquebrada>
+    <harinadetrigo>200g</harinadetrigo>
+    <mantequilla>100g</mantequilla>
+    <clarahuevo>60-70g</clarahuevo>
+</massaquebrada>
+<relleno>
+    <cebolleta>2 ud</cebolleta>
+    <zanahoria>0.5 ud</zanahoria>
+    <calabacin>0.5 ud</calabacin>
+    <quesorallado>100g</quesorallado>
+    <huevo>3 ud</huevo>
+    <nataliquida>150 ml</nataliquida>
+    </relleno>
+    <sazonador>
+        <aceiteoliva></aceiteoliva>
+        <sal></sal>
+        <pimientanegra></pimientanegra>
+    </sazonador>
+</ingredientes>

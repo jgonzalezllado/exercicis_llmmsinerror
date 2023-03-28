@@ -1,0 +1,11 @@
+{
+"titulo": "señor anillos", 
+"autor": "j.r.r . tolkien",
+"año": 1954
+"generos: ["fantassia", "aventura"]"
+
+nombre propiedad , la clave es un objeto, que queremos guardar una o varias propiedades o campos.
+pner coma al final para listar diferentes campos
+con el corchete se guarda una serie de elementos
+diferencia cuando se abre la clave
+}

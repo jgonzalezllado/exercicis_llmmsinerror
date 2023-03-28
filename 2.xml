@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<maquinas>
+<pc1>
+<procesador>AMD RYZEN 7</procesador>
+<ram>32 GB</ram>
+<disco capacidad="480 gb">kioxia exceria</disco>
+
+</pc1>
+
+<pc2>
+    <procesador>i5</procesador>
+    <ram>16 GB</ram>
+    <disco capacidad="2 TB">SEAGATE BARRACUDA 2.5</disco>
+</pc2>
+
+<pc3>
+    <procesador>intel i7 </procesador>
+    <ram>8 GB</ram>
+    <disco capacidad="240 gb">kingson a400</disco>
+</pc3>
+</maquinas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE llistaventes SYSTEM "listaventas.dtd">
+<llistaventes>
+    <venda>
+      <import>1500</import>
+      <comprador>Pedro</comprador>
+      <venedor>María</venedor>
+      <data>13/03/2023</data>
+      <codi_factura lletra="A123456">A123456</codi_factura>
+    </venda>
+    <venda>
+      <import>2000</import>
+      <comprador>Juan</comprador>
+      <venedor>Ana</venedor>
+      <codi_factura lletra="B789012">B789012</codi_factura>
+    </venda>
+  </llistaventes>
+  

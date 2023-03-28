@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empleados>
+    <primero>
+        <nombre>Rosa Rostein</nombre>
+        <edad>27</edad>
+        <ciudad>Londres</ciudad>
+    </primero>
+    <segundo>
+        <nombre>Jack Jovecky</nombre>
+        <edad>32</edad>
+        <ciudad>Praga</ciudad>
+    </segundo>
+    <tercero>
+        <nombre>Tim Tosk</nombre>
+        <edad>22</edad>
+        <ciudad>Sidney</ciudad>
+    </tercero>
+    <cuarto>
+        <nombre>Aki Kovalen</nombre>
+        <edad>42</edad>
+        <ciudad>Helskini</ciudad>
+    </cuarto>
+</empleados>
